@@ -4,6 +4,10 @@
 This project is an analysis of the **Lok Sabha Election Results of India**, performed using **SQL queries** and relational database principles. The analysis focuses on identifying trends in constituency-wise, state-wise, and party-wise election results. A detailed report was generated with screenshots of SQL queries, their outputs, and an **Entity-Relationship Diagram (ERD)** illustrating the database structure.
 
 ---
+## **ERD Snapshot**
+![ERD](https://github.com/user-attachments/assets/2c4159fb-885e-451d-ba9a-ab116ce90cf7)
+
+---
 
 ## **Project Features**
 - **SQL Query Analysis**:
@@ -33,14 +37,11 @@ This project is an analysis of the **Lok Sabha Election Results of India**, perf
     - SQL queries used for analysis.
     - Screenshots of query results.
     - Snapshot of the database ERD.
-      ![Report](report.pdf)
+      [Report](report.pdf)
 
 ---
 
-## **ERD Snapshot**
-![ERD Diagram](ERD.png)
 
----
 ## **Technologies Used**
 - Database: Microsoft SQL Server
 - Documentation: Markdown, Word, and PDF formats
